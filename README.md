@@ -40,6 +40,16 @@ Here are some of my favorite apps, and their greatest features (imo).
 - Chronological ordering for steps per day, per week, per month, etc.
 - UI is pleasant to look at!
 
+**An App I would like to build:**
+A productivity app, similar to what I described with MinimaList above, but it focuses more on planning then the execution. 
+In terms of planning, I would need to incorporate AI to help the user sort their tasks by brain area, and then make them into smaller/grouped tasks accordingly.
+* Some key features my app would have:
+- Messy Drafts Board (for unorganized tasks)
+- A "regroup" button to reorganize everything by brain area used for that task
+- A hold-and-slide to re-arrange the order of the task by yourself
+- A time estimate in another column for the task, so that people are not overworking
+- Perhaps an incorporated calender to put tasks by day.
+
 
 ## Notes
 
